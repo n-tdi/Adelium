@@ -1,0 +1,8 @@
+name: Adelium
+version: '${project.version}'
+main: world.ntdi.adelium.Adelium
+api-version: 1.19
+prefix: Adelium
+authors: [ Ntdi ]
+description: Core plugin for Adelium
+website: https://www.ntdi.world
